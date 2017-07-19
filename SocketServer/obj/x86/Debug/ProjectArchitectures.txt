@@ -1,0 +1,1 @@
+C:\Users\Harold\documents\visual studio 2017\Projects\SocketServer\SocketServer\SocketServer.csproj;x86
